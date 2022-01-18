@@ -1,0 +1,14 @@
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\bin\Debug\netcoreapp3.1\Composition_Enum.exe
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\bin\Debug\netcoreapp3.1\Composition_Enum.deps.json
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\bin\Debug\netcoreapp3.1\Composition_Enum.runtimeconfig.json
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\bin\Debug\netcoreapp3.1\Composition_Enum.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\bin\Debug\netcoreapp3.1\Composition_Enum.dll
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\bin\Debug\netcoreapp3.1\Composition_Enum.pdb
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\obj\Debug\netcoreapp3.1\Composition_Enum.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\obj\Debug\netcoreapp3.1\Composition_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\obj\Debug\netcoreapp3.1\Composition_Enum.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\obj\Debug\netcoreapp3.1\Composition_Enum.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\obj\Debug\netcoreapp3.1\Composition_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\obj\Debug\netcoreapp3.1\Composition_Enum.dll
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\obj\Debug\netcoreapp3.1\Composition_Enum.pdb
+C:\Users\Vinicius\source\repos\Composition_Enum\Composition_Enum\obj\Debug\netcoreapp3.1\Composition_Enum.genruntimeconfig.cache
